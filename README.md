@@ -1,4 +1,4 @@
-# WeatherNow Application
+# WeatherNow Application..
 
 A beautiful, modern full-stack weather application built with Spring Boot and React. It features a stunning glassmorphism UI, real-time weather data from OpenWeatherMap, and hyper-realistic 3D flying bird animations powered by Vanta.js and Three.js.
 
